@@ -1,6 +1,6 @@
 # Pill detection project summary
 ## Minimum Scope
-The minimum application we have to deliver by Nov 3rd is an executable on some platform (laptop, rpi, smartphone etc.) that uses a camera to detect to a good amount of accuracy whether someone's put a pill in their mouth. Our approach should definitely be lightweight enough in terms of memory and processing power to run on a laptop, ideally it would also work on a smartphone or a large raspberry pi.
+The minimum application we have to deliver by Nov 3rd is an executable on some platform (laptop, rpi, smartphone etc.) that uses a camera to detect to a good amount of accuracy whether someone's put a pill in their mouth. Our approach should definitely be lightweight enough in terms of memory and processing power to run on a laptop, ideally it would also work on a smartphone or a large raspberry pi. The point of this application is that people missing taking their medication is a large issue so we want to be able to detect that.
 
 ## Approach
 There's no fixed way to approach this. I'll describe my idea here but this might fail, so we need to be open to thinking about other methods.
