@@ -32,9 +32,13 @@ Some other aspects that would be good to look into:
 
 ## Finding relevant papers
 I had some trouble searching for papers on google initially, and only found papers relating to detecting the type of pill. I realised after that I should specify the keyword "activity recognition". The searches I've used so far are:
+
     - activity recognition pill
+    
     - activity recognition medication
+    
     - activity recognition medication adherence
+    
 Mentioning "computer vision" would probably help as well. Once you've found a relevant paper, you should naturally check the citations and cited-by. They usually have a section at the start talking about previous/related work. There are also separate papers that only review the literature and talk about previous studies. 
 
 ### A list of some of them
