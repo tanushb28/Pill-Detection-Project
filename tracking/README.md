@@ -17,3 +17,5 @@ The tasks that should be done are:
 Currently we only have the one video I sent in the whatsapp group that I'll send again in whatsapp. You can buy skittles for 10 inr at shetty's. Just record it on your phone. We don't need that many videos yet, and it's a very easy process, and you'll get 9 videos for each pack, and it should only take roughly a minute a video. If you don't need more videos you don't need to take them.
 
 The documentation for mediapipe tasks is at https://ai.google.dev/edge/mediapipe/solutions/guide.
+
+There's also some parameters you can play with about how confident the model needs to be before it marks the hand/face as detected, and also to do with whether it tracks or detects anew each frame. You can read the documentation for that, and change it in the options part, or just ask me. A low confidence threshold will mean the model is more likely to have false positives.
