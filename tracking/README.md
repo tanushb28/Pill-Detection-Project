@@ -15,3 +15,5 @@ The tasks that should be done are:
 - Consider how to use background subtraction to detect if the pill falls. We don't have a video of the pill falling right now. The idea is simply to subtract this frame from the last one then to search for large changes. Since a falling pill moves quite quickly I think the difference should be easy to see. So read about that and see if you can think of a better method.
 
 Currently we only have the one video I sent in the whatsapp group that I'll send again in whatsapp. You can buy skittles for 10 inr at shetty's. Just record it on your phone. We don't need that many videos yet, and it's a very easy process, and you'll get 9 videos for each pack, and it should only take roughly a minute a video. If you don't need more videos you don't need to take them.
+
+The documentation for mediapipe tasks is at https://ai.google.dev/edge/mediapipe/solutions/guide.
